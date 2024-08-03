@@ -11,12 +11,12 @@
 #define WIFI_PASSWORD "yourpasswordhere"
 
 //Firebase credentials
-#define API_KEY "AIzaSyAXyI_4THjGKLasAEWKPFKulh_W5rkqxzM"
-#define DATABASE_URL "https://esp32ledcontrol-46eac-default-rtdb.firebaseio.com/"
+#define API_KEY "your api key here"
+#define DATABASE_URL "your database url here"
 
 //Define user credentials
-#define USER_EMAIL "aizhar.quindoza@gmail.com"
-#define USER_PASSWORD "11@XBlastbreed1"
+#define USER_EMAIL "your email here"
+#define USER_PASSWORD "your password here"
 
 //define firebase data object
 FirebaseData fbdo;
